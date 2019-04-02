@@ -149,5 +149,8 @@ $RECYCLE.BIN/
 *.lnk
 
 # Vcode 
-*.vscode
-src
+.vscode/
+src/
+
+# Vim
+*.swp
