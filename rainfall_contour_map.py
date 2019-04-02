@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-@author: Adwiy Wang
+# @author: Adwiy Wang
 import numpy as np
 import pandas as pd
 from matplotlib.mlab import griddata
